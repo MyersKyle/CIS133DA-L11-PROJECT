@@ -152,3 +152,11 @@ footer {
 footer a {
     color: white;
 }
+
+/* Reset Message Styles */
+/* Hide the message until the Reset button is clicked. */
+#resetMessage {
+    visibility: hidden;
+    font-weight: bold;
+    color: red;
+}
